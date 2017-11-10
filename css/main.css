@@ -1,1 +1,11 @@
-{\rtf1}
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+	width: 911px;
+	height: 100px;
+	background: #777;
+	margin: auto;
+}
